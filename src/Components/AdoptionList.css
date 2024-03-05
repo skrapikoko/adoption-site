@@ -1,0 +1,12 @@
+.AdoptionList > h2 {
+    text-align: center;
+    color: #0151a1;
+}
+
+.AdoptionList > ol {
+    display: block;
+    margin: auto;
+    text-align: center; 
+    padding: 0; 
+    list-style-position: inside;
+}

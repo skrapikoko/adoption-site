@@ -1,0 +1,7 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 20;
+    padding: 50px;
+    font-size: xx-large;
+}

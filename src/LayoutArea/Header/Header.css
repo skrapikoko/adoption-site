@@ -1,0 +1,8 @@
+.header {
+    color:rgb(43, 226, 128);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: xx-large;
+};

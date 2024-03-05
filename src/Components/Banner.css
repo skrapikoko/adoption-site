@@ -1,0 +1,15 @@
+.Banner > p{
+    color:rgb(43, 226, 128);
+    text-align: center;
+}
+
+.Banner > h1 {
+    color:rgb(43, 226, 128);
+    text-align: center;
+}
+
+.Banner > img {
+    display: block;
+    height: 300px;
+    margin: auto;
+};
