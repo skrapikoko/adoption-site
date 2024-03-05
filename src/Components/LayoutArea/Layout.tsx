@@ -1,7 +1,7 @@
+import Home from "../Home/Home"
 import Footer from "./Footer/Footer"
 import Header from "./Header/Header"
 import "./Layout.css"
-import Home from "./MainArea/Home/Home"
 import Menu from "./Menu/Menu"
 
 function Layout (): JSX.Element {
